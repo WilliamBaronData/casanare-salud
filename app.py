@@ -1,6 +1,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║  GOBERNACIÓN DE CASANARE — Vigilancia Epidemiológica Dengue          ║
+║  GOBERNACIÓN DE CASANARE — Programa ETV Departamental
+   Seguimiento a casos          ║
 ║  Secretaría de Salud                                                 ║
 ║                                                                      ║
 ║  Formatos : XLS · XLSX · XLSM · ODS · CSV · TSV                     ║
