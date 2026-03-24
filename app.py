@@ -1,11 +1,10 @@
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║  GOBERNACIÓN DE CASANARE — Programa ETV Departamental
-   Seguimiento a casos          ║
-║  Secretaría de Salud                                                 ║
+║  GOBERNACIÓN DE CASANARE — Vigilancia Epidemiológica Dengue          ║
+║  Seguimiento a casos  - Secretaría de Salud                          ║
 ║                                                                      ║
-║  Formatos : XLS · XLSX · XLSM · ODS · CSV · TSV                     ║
-║  Estructura: SIVIGILA departamental (PARA CRUZAR) o formulario IEC  ║
+║  Formatos : XLS · XLSX · XLSM · ODS · CSV · TSV                      ║
+║  Estructura: SIVIGILA departamental (PARA CRUZAR) o formulario IEC   ║
 ║  Paleta   : epidemiológica OPS/OMS                                   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 """
